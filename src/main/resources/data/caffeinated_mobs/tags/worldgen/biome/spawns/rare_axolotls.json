@@ -1,0 +1,14 @@
+{
+  "values": [
+    {
+      "id": "terralith:warm_river",
+      "required": false
+    },
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    {
+      "id": "terralith:orchid_swamp",
+      "required": false
+    }
+  ]
+}

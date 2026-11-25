@@ -1,0 +1,13 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#caffeinated_mobs:spawns/boar_haunts",
+  "spawners": [
+    {
+      "type": "minecraft:hoglin",
+      "weight": 2,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ],
+  "category": "creature"
+}

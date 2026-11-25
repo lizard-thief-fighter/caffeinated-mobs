@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "nomansland"
+    }
+  ],
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/deer_woods",
+  "spawners": [
+    {
+      "type": "nomansland:deer",
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ]
+}

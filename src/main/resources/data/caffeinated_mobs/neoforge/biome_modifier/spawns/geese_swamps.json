@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "nomansland"
+    }
+  ],
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/goose_swamps",
+  "spawners": [
+    {
+      "type": "nomansland:goose",
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 4
+    }
+  ]
+}

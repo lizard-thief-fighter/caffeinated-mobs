@@ -1,0 +1,12 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#caffeinated_mobs:spawns/underground_jungle",
+  "spawners": [
+    {
+      "type": "minecraft:slime",
+      "weight": 4,
+      "minCount": 3,
+      "maxCount": 3
+    }
+  ]
+}

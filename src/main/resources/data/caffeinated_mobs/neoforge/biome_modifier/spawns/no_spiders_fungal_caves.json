@@ -1,0 +1,7 @@
+{
+  "type": "neoforge:remove_spawns",
+  "biomes": "#caffeinated_mobs:spawns/no_spiders",
+  "entity_types": [
+    "minecraft:spider"
+  ]
+}

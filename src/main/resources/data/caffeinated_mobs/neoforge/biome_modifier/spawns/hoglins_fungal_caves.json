@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/fungal_caves",
+  "spawners": [
+    {
+      "type": "minecraft:hoglin",
+      "weight": 25,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}

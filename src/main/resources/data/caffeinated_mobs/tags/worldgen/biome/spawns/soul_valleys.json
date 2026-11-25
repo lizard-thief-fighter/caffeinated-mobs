@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:soul_sand_valley",
+    {
+      "id": "abyssaline:infected_valley",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:warped_forest",
+    {
+      "id": "abyssaline:twisting_thicket",
+      "required": false
+    }
+  ]
+}

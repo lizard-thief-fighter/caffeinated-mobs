@@ -1,0 +1,12 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#caffeinated_mobs:spawns/rare_slimes",
+  "spawners": [
+    {
+      "type": "minecraft:slime",
+      "weight": 22,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}

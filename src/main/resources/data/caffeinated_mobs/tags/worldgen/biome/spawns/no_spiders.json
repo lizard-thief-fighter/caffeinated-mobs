@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "terralith:cave/fungal_caves",
+      "required": false
+    },
+    {
+      "id": "terralith:cave/underground_jungle",
+      "required": false
+    }
+  ]
+}

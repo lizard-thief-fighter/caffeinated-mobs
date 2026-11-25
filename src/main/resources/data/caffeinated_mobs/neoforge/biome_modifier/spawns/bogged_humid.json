@@ -1,0 +1,21 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:and",
+    "values": [
+      "#caffeinated_mobs:spawns/humid",
+      {
+        "type": "neoforge:not",
+        "value": "#caffeinated_mobs:spawns/bogged_biomes"
+      }
+    ]
+  },
+  "spawners": [
+    {
+      "type": "minecraft:bogged",
+      "weight": 20,
+      "minCount": 2,
+      "maxCount": 3
+    }
+  ]
+}

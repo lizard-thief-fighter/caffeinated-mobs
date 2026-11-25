@@ -1,0 +1,12 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#c:is_dry/overworld",
+  "spawners": [
+    {
+      "type": "minecraft:pig",
+      "weight": 3,
+      "minCount": 2,
+      "maxCount": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:dark_forest",
+    {
+      "id": "espresso:mixed_jungle_dark_forest",
+      "required": false
+    },
+    {
+      "id": "espresso:mixed_taiga_dark_forest",
+      "required": false
+    }
+  ]
+}

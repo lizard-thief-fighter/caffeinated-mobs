@@ -1,0 +1,12 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#caffeinated_mobs:spawns/rivers",
+  "spawners": [
+    {
+      "type": "minecraft:drowned",
+      "weight": 27,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}

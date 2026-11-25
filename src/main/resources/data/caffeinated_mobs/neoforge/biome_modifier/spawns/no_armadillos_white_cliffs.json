@@ -1,0 +1,7 @@
+{
+  "type": "neoforge:remove_spawns",
+  "biomes": "#caffeinated_mobs:spawns/no_armadillos",
+  "entity_types": [
+    "minecraft:armadillo"
+  ]
+}

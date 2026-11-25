@@ -1,0 +1,22 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": {
+    "type": "neoforge:and",
+    "values": [
+      "#caffeinated_mobs:spawns/boar_range",
+      {
+        "type": "neoforge:not",
+        "value": "#caffeinated_mobs:spawns/boar_haunts"
+      }
+    ]
+  },
+  "spawners": [
+    {
+      "type": "minecraft:hoglin",
+      "weight": 1,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ],
+  "category": "creature"
+}

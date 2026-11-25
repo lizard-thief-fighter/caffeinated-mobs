@@ -1,0 +1,12 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#caffeinated_mobs:spawns/thermal_caves",
+  "spawners": [
+    {
+      "type": "minecraft:slime",
+      "weight": 57,
+      "minCount": 3,
+      "maxCount": 3
+    }
+  ]
+}

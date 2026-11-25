@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/frostfire_caves",
+  "spawners": [
+    {
+      "type": "minecraft:wither_skeleton",
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2
+    }
+  ]
+}

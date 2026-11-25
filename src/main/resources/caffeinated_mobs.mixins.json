@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "caffeinated_mobs.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["LocalMobCapCalculatorMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

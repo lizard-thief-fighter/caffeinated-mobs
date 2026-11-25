@@ -1,0 +1,12 @@
+{
+  "type": "caffeinated_mobs:set_spawns",
+  "biomes": "#caffeinated_mobs:spawns/warped_forests",
+  "spawners": [
+    {
+      "type": "minecraft:enderman",
+      "weight": 1,
+      "minCount": 4,
+      "maxCount": 6
+    }
+  ]
+}

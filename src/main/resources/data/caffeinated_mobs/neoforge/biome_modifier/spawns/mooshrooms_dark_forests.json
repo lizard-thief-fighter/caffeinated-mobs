@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/dark_forests",
+  "spawners": [
+    {
+      "type": "minecraft:mooshroom",
+      "weight": 10,
+      "minCount": 2,
+      "maxCount": 6
+    }
+  ]
+}

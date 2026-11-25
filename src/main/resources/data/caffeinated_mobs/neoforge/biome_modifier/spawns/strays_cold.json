@@ -1,0 +1,21 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:and",
+    "values": [
+      "#caffeinated_mobs:spawns/cold",
+      {
+        "type": "neoforge:not",
+        "value": "#caffeinated_mobs:spawns/stray_biomes"
+      }
+    ]
+  },
+  "spawners": [
+    {
+      "type": "minecraft:stray",
+      "weight": 25,
+      "minCount": 1,
+      "maxCount": 2
+    }
+  ]
+}

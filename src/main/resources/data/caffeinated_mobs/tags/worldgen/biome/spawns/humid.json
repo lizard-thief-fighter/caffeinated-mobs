@@ -1,0 +1,23 @@
+{
+  "values": [
+    "#c:is_jungle",
+    "#c:is_swamp",
+    "minecraft:lush_caves",
+    {
+      "id": "terralith:cave/underground_jungle",
+      "required": false
+    },
+    {
+      "id": "espresso:mixed_jungle_forest",
+      "required": false
+    },
+    {
+      "id": "espresso:mixed_jungle_birch_forest",
+      "required": false
+    },
+    {
+      "id": "espresso:mixed_jungle_dark_forest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "neoforge:remove_spawns",
+  "biomes": "#caffeinated_mobs:spawns/no_creepers",
+  "entity_types": [
+    "minecraft:creeper"
+  ]
+}

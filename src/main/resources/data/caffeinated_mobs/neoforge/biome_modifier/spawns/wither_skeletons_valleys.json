@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/soul_valleys",
+  "spawners": [
+    {
+      "type": "minecraft:wither_skeleton",
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 2
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#caffeinated_mobs:spawns/llama_lands",
+  "spawners": [
+    {
+      "type": "minecraft:llama",
+      "weight": 2,
+      "minCount": 2,
+      "maxCount": 3
+    }
+  ]
+}

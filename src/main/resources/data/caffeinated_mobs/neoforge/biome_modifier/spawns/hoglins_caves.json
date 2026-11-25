@@ -1,0 +1,21 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": {
+    "type": "neoforge:and",
+    "values": [
+      "#c:is_cave",
+      {
+        "type": "neoforge:not",
+        "value": "#caffeinated_mobs:spawns/boar_caves"
+      }
+    ]
+  },
+  "spawners": [
+    {
+      "type": "minecraft:hoglin",
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}

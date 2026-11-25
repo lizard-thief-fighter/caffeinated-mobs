@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#c:is_desert",
+    "#c:is_badlands",
+    "minecraft:meadow",
+    {
+      "id": "espresso:alpine_meadow",
+      "required": false
+    },
+    "#caffeinated_mobs:spawns/normal_forests"
+  ]
+}
